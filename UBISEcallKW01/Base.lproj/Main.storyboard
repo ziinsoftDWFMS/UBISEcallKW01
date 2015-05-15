@@ -47,6 +47,9 @@
                                     <navigationItem title="UBIS Ecall 발신(정전/누전)" id="DP0-GR-i8Z"/>
                                 </items>
                             </navigationBar>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="43" verticalHuggingPriority="43" horizontalCompressionResistancePriority="43" verticalCompressionResistancePriority="43" fixedFrame="YES" image="ic_backout.png" translatesAutoresizingMaskIntoConstraints="NO" id="BFP-RB-pWP">
+                                <rect key="frame" x="5" y="28" width="43" height="44"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
