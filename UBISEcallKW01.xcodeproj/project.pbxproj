@@ -23,8 +23,6 @@
 		57EC0D7B1AFF8CFC003272E4 /* CAllServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 57EC0D7A1AFF8CFC003272E4 /* CAllServer.m */; };
 		57EC0D7E1AFF8D0A003272E4 /* DwfmsSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 57EC0D7D1AFF8D0A003272E4 /* DwfmsSegue.m */; };
 		57EC0D811AFF8D1A003272E4 /* IdentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 57EC0D801AFF8D1A003272E4 /* IdentViewController.m */; };
-		57EC0D841AFF8D4A003272E4 /* icon_bak.png in Resources */ = {isa = PBXBuildFile; fileRef = 57EC0D831AFF8D4A003272E4 /* icon_bak.png */; };
-		57EC0D861AFF8D5A003272E4 /* ic_backout_bak.png in Resources */ = {isa = PBXBuildFile; fileRef = 57EC0D851AFF8D5A003272E4 /* ic_backout_bak.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,8 +61,6 @@
 		57EC0D7D1AFF8D0A003272E4 /* DwfmsSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DwfmsSegue.m; sourceTree = "<group>"; };
 		57EC0D7F1AFF8D13003272E4 /* IdentViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IdentViewController.h; sourceTree = "<group>"; };
 		57EC0D801AFF8D1A003272E4 /* IdentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IdentViewController.m; sourceTree = "<group>"; };
-		57EC0D831AFF8D4A003272E4 /* icon_bak.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_bak.png; sourceTree = "<group>"; };
-		57EC0D851AFF8D5A003272E4 /* ic_backout_bak.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_backout_bak.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,8 +160,6 @@
 			children = (
 				57E27DAE1B052FF5000046EA /* ic_backout.png */,
 				57E27DAC1B052FE9000046EA /* icon.png */,
-				57EC0D851AFF8D5A003272E4 /* ic_backout_bak.png */,
-				57EC0D831AFF8D4A003272E4 /* icon_bak.png */,
 			);
 			name = image;
 			sourceTree = "<group>";
@@ -251,8 +245,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				57E4FA0F1AFF88D6003F4ABB /* Main.storyboard in Resources */,
-				57EC0D841AFF8D4A003272E4 /* icon_bak.png in Resources */,
-				57EC0D861AFF8D5A003272E4 /* ic_backout_bak.png in Resources */,
 				57E27DAF1B052FF5000046EA /* ic_backout.png in Resources */,
 				57E4FA141AFF88D6003F4ABB /* LaunchScreen.xib in Resources */,
 				57E4FA111AFF88D6003F4ABB /* Images.xcassets in Resources */,
